@@ -1,4 +1,3 @@
-#Api token: export API_KEY=pk_2bf1f9f1827a433bb58f5fca718e280c
 import os
 
 from cs50 import SQL
